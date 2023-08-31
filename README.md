@@ -5,8 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrancarvalho&layout=compact" alt="hybridoitc" />
 </p>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-
 ##
 
 <h3 align="center">Connect with me:</h3>
