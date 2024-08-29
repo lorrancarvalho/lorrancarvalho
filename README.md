@@ -32,9 +32,9 @@
   <a href="https://dev.mysql.com/doc/" target="_blank"><img align="center" alt="mysql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.nginx.com/" target="_blank"><img align="center" alt="nginx" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></a>
   <a href="https://www.php.net/docs.php" target="_blank"><img align="center" alt="php" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
-  <a href="https://www.jetbrains.com/pt-br/phpstorm/" target="_blank"><img align="center" alt="phpstorm" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/phpstorm/phpstorm-plain-wordmark.svg" /></a>
+  <a href="https://www.jetbrains.com/pt-br/phpstorm/" target="_blank"><img align="center" alt="phpstorm" height="80" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/phpstorm/phpstorm-plain-wordmark.svg" /></a>
   <a href="https://www.proxmox.com/en/downloads" target="_blank"><img align="center" alt="proxmox" height="40" width="50" src="https://styles.redditmedia.com/t5_2w0wn/styles/communityIcon_l9fx4v8n3cw71.png" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="sass" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
-  <a href="https://www.sublimetext.com/" target="_blank"><img align="center" alt="sublimetext" height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" /></a>
+  <!--<<a href="https://www.sublimetext.com/" target="_blank"><img align="center" alt="sublimetext" height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" /></a>-->
   <a href="https://br.wordpress.org/" target="_blank"><img align="center" alt="wordpress" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></a>   
 </p>
