@@ -1,9 +1,10 @@
 ## Hey there! I'm Lorran Carvalho
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorrancarvalho&show_icons=true&theme=transparent" alt="hybridoitc" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrancarvalho&layout=compact" alt="hybridoitc" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##
 
